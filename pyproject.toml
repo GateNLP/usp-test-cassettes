@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "usp-test-cassettes"
+license = "GPL-3.0-or-later"
+authors = ["Freddy Heppell <freddy@freddyheppell.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+vcrpy = "6.0.1"
+sh = "^2.0.7"
+ultimate-sitemap-parser = {git = "https://github.com/mediacloud/ultimate-sitemap-parser.git", rev = "develop"}
