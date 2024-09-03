@@ -3,5 +3,10 @@
     "name": "www.sheffield.ac.uk.yaml",
     "url": "https://github.com/GateNLP/usp-test-cassettes/releases/download/20240903123048-www.sheffield.ac.uk/www.sheffield.ac.uk.yaml.gz",
     "hash": "6bb9bfc1b23054b6f48ca281d5b33aceeb07f5f71562adfdc79b16d51898af07"
+  },
+  "https://www.bbc.co.uk/": {
+    "name": "www.bbc.co.uk.yaml",
+    "url": "https://github.com/GateNLP/usp-test-cassettes/releases/download/20240903124116-www.bbc.co.uk/www.bbc.co.uk.yaml.gz",
+    "hash": "67e7baecb6a4cc1e2296e9b6adce2eb40ecee4bbad528511f70fe2a508551a01"
   }
 }
