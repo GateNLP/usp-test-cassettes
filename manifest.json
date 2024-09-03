@@ -1,1 +1,7 @@
-{}
+{
+  "https://www.sheffield.ac.uk/": {
+    "name": "www.sheffield.ac.uk.yaml",
+    "url": "https://github.com/GateNLP/usp-test-cassettes/releases/download/20240903123048-www.sheffield.ac.uk/www.sheffield.ac.uk.yaml.gz",
+    "hash": "6bb9bfc1b23054b6f48ca281d5b33aceeb07f5f71562adfdc79b16d51898af07"
+  }
+}
